@@ -1,0 +1,48 @@
+.header-landing {
+    min-height: 100vh;
+    background: linear-gradient( rgba(0, 0, 0, 0%), rgba(0, 0, 0, 70%)), url("../img/pexels-achim-bongard-352096.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-content {
+    min-height: 25vh;
+    background: linear-gradient( rgba(0, 0, 0, 0%), rgba(0, 0, 0, 70%)), url("../img/pexels-pixabay-235734.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-content-header {
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+    padding-left: 10vw;
+}
+
+.header-content-title {
+    font-size: 50px;
+    color: #fff;
+}
+
+.header-content-text {
+    font-size: 30px;
+    color: #fff;
+}
+
+.header-header {
+    padding-top: 40vh;
+    padding-left: 10vw;
+}
+
+.header-title {
+    font-size: 50px;
+    color: #fff;
+}
+
+.header-text {
+    font-size: 30px;
+    color: #fff;
+}
+
+a:hover {
+    color: rgb(117, 209, 209);
+}
